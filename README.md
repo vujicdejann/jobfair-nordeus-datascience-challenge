@@ -52,6 +52,4 @@ We employ SHAP (SHapley Additive exPlanations) for model interpretability, allow
 
 ## Saving and Downloading the Model
 
-The trained model pipeline, including preprocessing steps, is saved as output_model.pkl.pkl using joblib, making it reusable without retraining.         
-│
-├── predictions.py                   
+The trained model pipeline, including preprocessing steps, is saved as output_model.pkl.pkl using joblib, making it reusable without retraining.                        
